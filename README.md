@@ -3,9 +3,9 @@
 - 👀 I’m interested in creative media, tech innovation, and everything in between  
 - 🌱 I’m currently learning advanced programming, AI tools, and creative editing techniques  
 - 💞️ I’m looking to collaborate on tech projects, video edits/montages, and multimedia design  
-- 📫 How to reach me: [https://taplink.cc/alaadroid]
+- 📫 How to reach me: https://taplink.cc/alaadroid
 - ⚡ Fun fact: I’m a multidisciplinary creative—  
-  🎨 Designer | 🎬 Video Editor | 🎧 Mix Engineer  
+  🎨 Designer | 🎬 Video Editor | 🎧 Mix Engineer 
   📣 Promoter | 🌍 Translator | 💻 CpE + Programmer | 🛠️ Technical Specialist
 
 <!---
