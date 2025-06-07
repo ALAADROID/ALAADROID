@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning advanced programming, AI tools, and creative editing techniques  
 - 💞️ I’m looking to collaborate on tech projects, video edits/montages, and multimedia design  
 - 📫 How to reach me: [https://taplink.cc/alaadroid]
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m a multidisciplinary creative—  
-  🎨 Designer | 🎬 Video Editor / Montage Artist | 🎧 Mix Engineer  
+  🎨 Designer | 🎬 Video Editor | 🎧 Mix Engineer  
   📣 Promoter | 🌍 Translator | 💻 CpE + Programmer | 🛠️ Technical Specialist
 
 <!---
