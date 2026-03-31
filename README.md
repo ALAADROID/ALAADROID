@@ -7,7 +7,8 @@
   📣 Promoter | 🌍 Translator | 💻 CpE + Programmer | 🛠️ Technical Specialist
 - 📫 How to reach me: https://taplink.cc/alaadroid
 
-<!---
-ALAADROID/ALAADROID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
