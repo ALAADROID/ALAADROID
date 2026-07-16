@@ -1,4 +1,4 @@
-👋 Hi, I’m @ALAADROID
+👋 Hi, I’m ALAA
 
 - 👀 I’m interested in creative media, tech innovation, and everything in between  
 - 💞️ I’m looking to collaborate on tech projects, video edits/montages, and multimedia design  
